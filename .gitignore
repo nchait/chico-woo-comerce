@@ -1,0 +1,5 @@
+*.pdf
+*.json
+.venv/*
+*/.DS_Store
+*.csv
