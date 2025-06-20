@@ -3,7 +3,7 @@ import json
 import re
 from bs4 import BeautifulSoup
 
-file_path = 'Products-Export-2025-May-15-1824 copy.csv'
+file_path = 'CDSEXPORT.csv'
 output_file = 'cleaned_products.csv'
 
 with open(file_path, mode='r', newline='') as file:
